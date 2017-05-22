@@ -1,0 +1,1 @@
+LIFO implementation of linked list
